@@ -20,4 +20,8 @@ This can be broken down by:
 total sales revenue
 total number of customers
 average number of transactions per customer
-Create a measure to compare different control stores to each of the trial stores to do this write a function to reduce having to re-do the analysis for each trial store
+Create a measure to compare different control stores to each of the trial stores to do this write a function to reduce having to re-do the analysis for each trial store.
+
+•	Specialized in Data Preparation and Retail Analytics with Python leveraging transaction datasets and identified benchmark stores for testing trial layouts and provided insights to Category Manager using Exploratory Data Analysis to optimize marketing strategies.
+•	Managed a Customer Segmentation Analysis revealing Premium customers contributed over 19% of sales by focusing on high-priced, larger pack sizes, influencing targeted marketing strategies with Statistical Analysis.
+
